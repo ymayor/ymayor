@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<b>🔭 IT Tech</b>
-⚡MikroTik Certified Network Associate
-💬 Ask me about network issues
+<br>🔭 IT Tech</br>
+<br>⚡MikroTik Certified Network Associate</br>
+<br>💬 Ask me about network issues</br>
